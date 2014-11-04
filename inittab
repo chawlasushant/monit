@@ -1,0 +1,2 @@
+# Run monit in standard runlevels
+mo:2345:respawn:/usr/local/sbin/monit -Ic /etc/monitrc
